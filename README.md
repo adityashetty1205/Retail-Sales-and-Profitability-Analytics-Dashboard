@@ -134,8 +134,9 @@ The project explored the following key questions to uncover actionable business 
 ## 👤 Author
 
 **Aditya Pramod Shetty**  
-Master's in Business Analytics
+Master's in Business Analytics |
 Isenberg School of Management | University of Massachusetts Amherst  
+
 📧 Email ID: [adityashetty1205@gmail.com]
 🔗 LinkedIn: [https://www.linkedin.com/in/aditya-shetty1205/]
 
