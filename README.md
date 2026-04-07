@@ -1,4 +1,4 @@
-# 🐾 **Pawsitively Profitable - Munchy's Retail Analytics Dashboard | Tableau Project**
+# 🐾 **Retail Sales and Profitability Analytics Dashboard | Tableau Project**
 
 A business intelligence project aimed at optimizing product bundling and logistics for Munchy's, a fictional e-commerce pet supply store. This dashboard was developed in **Tableau** to provide deep insights into product performance, customer preferences, regional revenue distribution, and cost dynamics.
 
